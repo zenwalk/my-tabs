@@ -25,3 +25,7 @@
 [skyfield](https://pypi.org/project/skyfield/)
 
 [PP3 -- Celestial Chart Generation](http://pp3.sourceforge.net/)
+
+[western_constellations_atlas_of_space](https://github.com/eleanorlutz/western_constellations_atlas_of_space)
+
+[skymapper](https://github.com/pmelchior/skymapper)
