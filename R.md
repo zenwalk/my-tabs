@@ -5,3 +5,5 @@
 [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
 
 [Multiple (Linear) Regression](https://www.statmethods.net/stats/regression.html)
+
+[tibble](https://tibble.tidyverse.org/index.html)
